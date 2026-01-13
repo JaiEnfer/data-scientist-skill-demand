@@ -1,4 +1,4 @@
-# Berlin Data Scientist Skill Demand Analysis
+# Data Scientist Skill Demand Analysis
 
 ## Project Overview
 This project analyzes **Data Scientist job postings** to identify:
