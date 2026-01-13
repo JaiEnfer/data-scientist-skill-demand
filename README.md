@@ -11,7 +11,7 @@ The goal is to provide **data-driven insights** for job seekers and recruiters.
 ---
 
 ## Data
-- [Source: LinkedIn job postings (2024)]({https://www.kaggle.com/datasets/wilomentena/linkedin-data-scientistanalyst-jobs-berlin-2024/data})
+- [Source: LinkedIn job postings (2024)]{https://www.kaggle.com/datasets/wilomentena/linkedin-data-scientistanalyst-jobs-berlin-2024/data}
 - Focus: **Data Scientist roles only**
 - Total job ads analyzed: **60**
 
