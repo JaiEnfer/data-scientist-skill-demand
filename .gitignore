@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/*.zip
+
+# Data
+combined_job_offers.csv
+combined_job_offers3.csv
+
+# Environment
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
