@@ -94,7 +94,7 @@ berlin-ds-skill-demand/
 
 ## Demo
 
-[Uploading Demo.zip…]()
+Demo of this project is in the Demo.zip.
 
 
 
